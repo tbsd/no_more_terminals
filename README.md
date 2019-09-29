@@ -20,5 +20,11 @@ Also, it may be useful to create another binding for opening a terminal anyway. 
 * xdotool
 
 
+### Known ~bugs~ features
+When there is no free terminals it's possible to open multiple terminals by fast executing the script for a several times.   
+
+
 ### TODO
 Maybe add iterating through all terminals when free terminal selected.
+
+
